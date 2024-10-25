@@ -1,2 +1,2 @@
 # Simranarora.github.io
-Personalised Portfolio
+portfolio
